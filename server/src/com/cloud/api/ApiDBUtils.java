@@ -70,7 +70,7 @@ import org.apache.cloudstack.storage.datastore.db.StoragePoolVO;
 import com.cloud.agent.api.VgpuTypesInfo;
 import com.cloud.api.query.dao.AccountJoinDao;
 import com.cloud.api.query.dao.AffinityGroupJoinDao;
-+import com.cloud.api.query.dao.StorageTagDao;
+import com.cloud.api.query.dao.StorageTagDao;
 import com.cloud.api.query.dao.AsyncJobJoinDao;
 import com.cloud.api.query.dao.DataCenterJoinDao;
 import com.cloud.api.query.dao.DiskOfferingJoinDao;
